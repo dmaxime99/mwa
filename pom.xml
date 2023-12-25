@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Koni Consulting Releases Nexus Repository </name>
-	      <url>http://18.209.180.113:8081/repository/mwa-snapshots/</url>
+	      <url>http://18.209.180.113:8081/repository/mwa-snapshots2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
